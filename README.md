@@ -23,8 +23,8 @@ A RESTful API for managing products, favorites, and user authentication for an e
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/product-favorites-api.git
-cd product-favorites-api
+git clone https://github.com/yash-js/product-api
+cd product-api
 ```
 
 ### Install dependencies
